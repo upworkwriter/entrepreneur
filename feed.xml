@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://entrepreneur.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://entrepreneurpro.netlify.app/index.html/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo9.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,129 +18,132 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.nav-item{
-padding-left:8.3px;
-padding-right:7.5px;
-padding-top:5px;
-padding-bottom:5.5px;
+ul{
+list-style: circle;
 }
-footer{
-background:#121212;
-color:#ffffff;
-}
-footer *{
-font-size:16px !important;
-}
-.eb3ca72974cc8eaa000501053091b959b p,.eb3ca72974cc8eaa000501053091b959b a,.eb3ca72974cc8eaa000501053091b959b span,.eb3ca72974cc8eaa000501053091b959b label{
-font-size:16px!important;
-}
-.b620de2e9ae8b53a5ea605e2ca48e98bc p,.b620de2e9ae8b53a5ea605e2ca48e98bc span,.b620de2e9ae8b53a5ea605e2ca48e98bc label{
-font-size:16px!important;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
+.nav-link{
+color: #ec7b53;
+
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.nav-link{
-color: #ec7b53!important;
-
-}
 .navbar a{
-font-size: 18.4px!important;
+font-size: 17.7px!important;
 font-weight: bold;
 }
-.d5eccee06d5b0cea19e3af40c62af32bd:hover{
-box-shadow: 0 49.9px 49.7px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
+.e88acda79ac5b294091148e4701d0ad80 p,.e88acda79ac5b294091148e4701d0ad80 span,.e88acda79ac5b294091148e4701d0ad80 label{
+font-size:16px!important;
 }
-html{
-scroll-behavior: smooth;
+footer *{
+font-size:16px !important;
 }
-.eb3ca72974cc8eaa000501053091b959b a,.b620de2e9ae8b53a5ea605e2ca48e98bc a{
-color:#0b0b0b!important;
-text-decoration: underline !important;
-}
-.b620de2e9ae8b53a5ea605e2ca48e98bc a{
+.e88acda79ac5b294091148e4701d0ad80 a{
 font-size:16px;
 }
-.btn-md{
-padding: 15.1px 30px;
-border-radius: 0;
-}
-ul{
-list-style: circle;
+.e3bc79687f1f2ad7fac7a6eef4a9de9fa p,.e3bc79687f1f2ad7fac7a6eef4a9de9fa a,.e3bc79687f1f2ad7fac7a6eef4a9de9fa span,.e3bc79687f1f2ad7fac7a6eef4a9de9fa label{
+font-size:16px!important;
 }
 a{
 text-decoration: none!important;
 }
-.wbdcb857811e95b43e14a1a942add9e6c{
+.ved8283cf77dd51e8162cec1fa2cc9791{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
 }
+footer{
+background:#030303;
+color:#ffffff;
+}
+html{
+scroll-behavior: smooth;
+}
+.db399ff105319fb00a7388cf0ee3aca15:hover{
+box-shadow: 0 49.5px 49.9px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+a:hover{
+color:;background:!important;
+}
+.btn-md{
+padding: 14.8px 29.5px;
+border-radius: 0;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.e3bc79687f1f2ad7fac7a6eef4a9de9fa a,.e88acda79ac5b294091148e4701d0ad80 a{
+color:#0d0d0d!important;
+text-decoration: underline !important;
+}
+.nav-item{
+padding-left:8.4px;
+padding-right:8.1px;
+padding-top:4.9px;
+padding-bottom:5.4px;
+}
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://entrepreneur.netlify.app/index.html"  ><img alt="img/logo9.png" src="img/logo9.png"  width="150px" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://entrepreneurpro.netlify.app/index.html/index.html"  ><img alt="img/logo9.png" src="img/logo9.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="align-items-center ml-auto d-flex navbar-nav"><li class="nav-item"><a class="nav-link w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/news.html"  >News</a></li>
+<ul class="align-items-center ml-auto navbar-nav d-flex"><li class="nav-item"><a class="nav-link y35430620e718211b041c638c95fc1401" href="https://entrepreneurpro.netlify.app/index.html/news.html"  >News</a></li>
   
 <li class="dropdown  nav-item">
-<a class="dropdown-toggle nav-link w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">FreshFuel Meal Prep Services Marketing tactics Web Space</a>
+<a class="dropdown-toggle nav-link y35430620e718211b041c638c95fc1401" href="https://entrepreneurpro.netlify.app/index.html/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">FreshFuel Meal Prep Services Marketing tactics Web Space</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/index.html"  >FreshFuel Meal Prep Services Marketing tactics Web Space</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/digital-marketing-strategies.html"  >Digital marketing strategies</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/content-marketing-techniques.html"  >Content marketing techniques</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/social-media-advertising-methods.html"  >Social media advertising methods</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/email-campaign-tactics.html"  >Email campaign tactics</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/search-engine-optimization-seo-approaches.html"  >Search engine optimization SEO approaches</a>
-  
-<li class="nav-item  dropdown">
-<a class="nav-link w4dfa40c5a8a93f8575b207a3a10e75b3 dropdown-toggle" href="https://entrepreneur.netlify.app/digital-marketing-strategies-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Digital marketing strategies</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/digital-marketing-strategies-1.html"  >Digital marketing strategies</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/payperclick-ppc-advertising.html"  >Payperclick PPC advertising</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/influencer-partnerships.html"  >Influencer partnerships</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/retargeting-campaigns.html"  >Retargeting campaigns</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/video-marketing-tactics.html"  >Video marketing tactics</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/mobile-marketing-techniques.html"  >Mobile marketing techniques</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/index.html"  >FreshFuel Meal Prep Services Marketing tactics Web Space</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/digital-marketing-strategies.html"  >Digital marketing strategies</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/content-marketing-techniques.html"  >Content marketing techniques</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/social-media-advertising-methods.html"  >Social media advertising methods</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/email-campaign-tactics.html"  >Email campaign tactics</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/search-engine-optimization-seo-approaches.html"  >Search engine optimization SEO approaches</a>
   
 <li class="nav-item dropdown ">
-<a class="w4dfa40c5a8a93f8575b207a3a10e75b3 nav-link dropdown-toggle" href="https://entrepreneur.netlify.app/content-marketing-techniques-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Content marketing techniques</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/content-marketing-techniques-1.html"  >Content marketing techniques</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/blogging-strategies.html"  >Blogging strategies</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/infographic-creation-tips.html"  >Infographic creation tips</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/whitepaper-development-methods.html"  >Whitepaper development methods</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/case-study-utilization.html"  >Case study utilization</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/ebook-publishing-approaches.html"  >Ebook publishing approaches</a>
-  
-<li class=" nav-item dropdown">
-<a class="dropdown-toggle w4dfa40c5a8a93f8575b207a3a10e75b3 nav-link" href="https://entrepreneur.netlify.app/social-media-advertising-methods-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Social media advertising methods</a>
+<a class="nav-link y35430620e718211b041c638c95fc1401 dropdown-toggle" href="https://entrepreneurpro.netlify.app/index.html/digital-marketing-strategies-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Digital marketing strategies</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/social-media-advertising-methods-1.html"  >Social media advertising methods</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/facebook-ads-optimization.html"  >Facebook ads optimization</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/instagram-sponsored-posts.html"  >Instagram sponsored posts</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/twitter-promotional-tweets.html"  >Twitter promotional tweets</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/linkedin-sponsored-content.html"  >LinkedIn sponsored content</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/pinterest-promoted-pins.html"  >Pinterest promoted pins</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/digital-marketing-strategies-1.html"  >Digital marketing strategies</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/payperclick-ppc-advertising.html"  >Payperclick PPC advertising</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/influencer-partnerships.html"  >Influencer partnerships</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/retargeting-campaigns.html"  >Retargeting campaigns</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/video-marketing-tactics.html"  >Video marketing tactics</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/mobile-marketing-techniques.html"  >Mobile marketing techniques</a>
   
-<li class="dropdown  nav-item">
-<a class="dropdown-toggle nav-link w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/more-articles.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More Articles</a>
+<li class="nav-item  dropdown">
+<a class="y35430620e718211b041c638c95fc1401 dropdown-toggle nav-link" href="https://entrepreneurpro.netlify.app/index.html/content-marketing-techniques-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Content marketing techniques</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/content-marketing-techniques-1.html"  >Content marketing techniques</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/blogging-strategies.html"  >Blogging strategies</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/infographic-creation-tips.html"  >Infographic creation tips</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/whitepaper-development-methods.html"  >Whitepaper development methods</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/case-study-utilization.html"  >Case study utilization</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/ebook-publishing-approaches.html"  >Ebook publishing approaches</a>
+  
+<li class=" dropdown nav-item">
+<a class="y35430620e718211b041c638c95fc1401 dropdown-toggle nav-link" href="https://entrepreneurpro.netlify.app/index.html/social-media-advertising-methods-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Social media advertising methods</a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/more-articles.html"  >More Articles</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/email-campaign-tactics-1.html"  >Email campaign tactics</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/personalization-techniques.html"  >Personalization techniques</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/ab-testing-methodologies.html"  >AB testing methodologies</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/automation-tools-and-software.html"  >Automation tools and software</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/segmentation-strategies.html"  >Segmentation strategies</a>
-<a class="dropdown-item" href="https://entrepreneur.netlify.app/engagement-metrics-analysis.html"  >Engagement metrics analysis</a>
-<li class="nav-item"><a class="w4dfa40c5a8a93f8575b207a3a10e75b3 nav-link" rel=nofollow href="https://entrepreneur.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/social-media-advertising-methods-1.html"  >Social media advertising methods</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/facebook-ads-optimization.html"  >Facebook ads optimization</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/instagram-sponsored-posts.html"  >Instagram sponsored posts</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/twitter-promotional-tweets.html"  >Twitter promotional tweets</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/linkedin-sponsored-content.html"  >LinkedIn sponsored content</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/pinterest-promoted-pins.html"  >Pinterest promoted pins</a>
+  
+<li class="nav-item  dropdown">
+<a class="y35430620e718211b041c638c95fc1401 nav-link dropdown-toggle" href="https://entrepreneurpro.netlify.app/index.html/more-articles.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More Articles</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/more-articles.html"  >More Articles</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/email-campaign-tactics-1.html"  >Email campaign tactics</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/personalization-techniques.html"  >Personalization techniques</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/ab-testing-methodologies.html"  >AB testing methodologies</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/automation-tools-and-software.html"  >Automation tools and software</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/segmentation-strategies.html"  >Segmentation strategies</a>
+<a class="dropdown-item" href="https://entrepreneurpro.netlify.app/index.html/engagement-metrics-analysis.html"  >Engagement metrics analysis</a>
+<li class="nav-item"><a class="nav-link y35430620e718211b041c638c95fc1401" rel=nofollow href="https://entrepreneurpro.netlify.app/index.html/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -198,24 +201,24 @@ color:#000000!important;
 <p>
 This website is owned and published by:
 FreshFuel Meal Prep Services</br>
-325-860-0651</br>
-8483  Cherry Street</br>
-Baltimore, MD, 21201</br>
-United States</br>
+412-893-3427</br>
+4402  Hilltop Road</br>
+Indianapolis, IN, 46225</br>
+USA</br>
 </br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="81cde8e0ecd2e2eef5f5d5f3e0f7e4edc1e6ece0e8edafe2eeec">[email&#160;protected]</a></br>
+MasonYoungStar80@outlook.com</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 py-4 container" >
-<div class="row"><div class="col-lg-3"><p><a class="w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="w4dfa40c5a8a93f8575b207a3a10e75b3" href="https://entrepreneur.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="y35430620e718211b041c638c95fc1401" href="https://entrepreneurpro.netlify.app/index.html/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="y35430620e718211b041c638c95fc1401" href="https://entrepreneurpro.netlify.app/index.html/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="y35430620e718211b041c638c95fc1401" href="https://entrepreneurpro.netlify.app/index.html/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
 </footer> 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
